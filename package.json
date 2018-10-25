@@ -1,0 +1,13 @@
+{
+    "name": "MeanMapsApp",
+    "main": "server.js",
+    "dependencies": {
+        "body-parser": "^1.18.3",
+        "express": "^4.16.4",
+        "jsonwebtoken": "^5.7.0",
+        "method-override": "^2.3.10",
+        "mongoose": "^4.13.17",
+        "morgan": "^1.9.1",
+        "node": "^10.12.0"
+    }
+}
